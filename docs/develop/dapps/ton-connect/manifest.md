@@ -1,3 +1,6 @@
+<script src="https://unpkg.com/@tonconnect/ui@latest/dist/tonconnect-ui.min.js"></script>![Screenshot_20240825-222016](https://github.com/user-attachments/assets/f8f101a8-abd4-4079-a289-35ab2425ef41)
+![Screenshot_20240825-222016](https://github.com/user-attachments/assets/fb2c1a4a-71a1-4e9e-9631-5c941d0314e7)
+![Screenshot_20240825-225854](https://github.com/user-attachments/assets/7d58fcab-262f-42e8-a44d-3bb4a21b554f)
 
 # Creating manifest.json
 
